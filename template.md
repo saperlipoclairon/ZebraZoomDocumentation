@@ -154,6 +154,8 @@ Once the kinematic parameters analysis is finished you should see a page as show
 
 ![alt text](./static/img/kinematicParametersResults.png)
 
+%
+
 The "medianPerWellFirst" folder will contain the kinematic parameters calculated while applying a median on each parameter for all bouts detected inside a well: if only one animal is contained in each well, then this will allow to compare each animal without the potential bias related to some animals that could be doing a lot more bouts than others. It is thus recommended to start by looking at the results in this folder.
 
 The "allBoutsMixed" folder nevertheless contains the kinematic parameters for all bouts mixed, without taking this median per well first.
