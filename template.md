@@ -17,6 +17,7 @@ conda create -n zebrazoom python=3.8
 conda activate zebrazoom
 pip install zebrazoom
 ```
+% this is a comment
 
 [More detailed explanations about how to install ZebraZoom](/docs/gettingStarted/installation#general-method)
 
